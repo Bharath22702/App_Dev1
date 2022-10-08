@@ -1,5 +1,7 @@
 # hydrogen
 
+(The code is in lib.)
+
 A new Flutter project.
 
 ## Getting Started
